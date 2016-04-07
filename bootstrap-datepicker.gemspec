@@ -8,8 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Ilya Rogozin"]
   s.email       = ["ilya.rogozin@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{Panters bootstrap-datepicker}
-  # s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Twitter Bootstrap Datepicker for Rails}
 
   s.rubyforge_project = "bootstrap-datepicker"
 
